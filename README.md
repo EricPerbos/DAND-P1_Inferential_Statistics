@@ -1,4 +1,4 @@
-# DAND-P1_Test-a-perceptual-phenomenon
+# DAND-P1_Test_a_Perceptual_Phenomenon
 P1 : STROOP  TASK
 
 By Eric Perbos-Brinck
