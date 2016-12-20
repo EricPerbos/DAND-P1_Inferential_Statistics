@@ -26,7 +26,8 @@ The independant variable is a binary variable for the color congruency.
 
 #### Q2: Establish a hypothesis and statistical test
 
-This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».
+This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».  
+
 </br>
 The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.  
 The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.
