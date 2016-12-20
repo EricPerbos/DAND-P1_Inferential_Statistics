@@ -30,7 +30,7 @@ This test is similar to a paired difference test when subjects are measured befo
   - The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.  
   - The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.
 
-Ho:  µincongruent – µcongruent  ≤ 0
+Ho:  µincongruent – µcongruent  ≤ 0  
 Ha:  µincongruent  – µcongruent  > 0
 
 We assume the distributions are normal/Gaussian.
