@@ -8,10 +8,10 @@ Give your readers a good intuition for the data and use statistical inference to
 #### Stroop Effect (from Wikipedia)
 
 In [psychology](https://en.wikipedia.org/wiki/Psychology), the Stroop effect is a demonstration of interference in the [reaction time](https://en.wikipedia.org/wiki/Mental_chronometry) of a task.  
-When the name of a color (e.g., "blue", "green", or "red") is printed in a color not denoted by the name (e.g., the word <font color="blue">RED!</font> printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color.
+When the name of a color (e.g., "blue", "green", or "red") is printed in a color not denoted by the name (e.g., the word "BLUE" printed in red ink instead of blue ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color.
 ```diff
 + GREEN
-- RED
+- BLUE
 ```
 </br>
 
