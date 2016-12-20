@@ -3,12 +3,12 @@
 Use descriptive statistics and a statistical test to analyze the Stroop effect, a classic result of experimental psychology.  
 Give your readers a good intuition for the data and use statistical inference to draw a conclusion based on the results.
 
-> By Eric Perbos-Brinck
+By Eric Perbos-Brinck
 
 
 ### Stroop Effect (from Wikipedia)
 
-In psychology, the Stroop effect is a demonstration of interference in the reaction time of a task.
+>In psychology, the Stroop effect is a demonstration of interference in the reaction time of a task.
 When the name of a color (e.g., "blue", "green", or "red") is printed in a color not denoted by the name (e.g., the word "red" printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color. 
 
 
