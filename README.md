@@ -5,7 +5,6 @@ Use descriptive statistics and a statistical test to analyze the Stroop effect, 
 Give your readers a good intuition for the data and use statistical inference to draw a conclusion based on the results.  
 </br>
 </br>
-
 ### Stroop Effect (from Wikipedia)
 
 In [psychology](https://en.wikipedia.org/wiki/Psychology), the Stroop effect is a demonstration of interference in the [reaction time](https://en.wikipedia.org/wiki/Mental_chronometry) of a task.  
