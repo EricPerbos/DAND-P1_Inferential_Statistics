@@ -22,7 +22,7 @@ When the name of a color (e.g., "blue", "green", or "red") is printed in a color
 The dependant variable is the time measured to name the ink colors (ie. reaction time) in equally-sized lists of identical participants.  
 The independant variable is a binary variable for the color congruency.
 
-![test image]https://github.com/allanbreyes/udacity-data-science/blob/master/p1/figures/residuals-histogram.png?raw=true
+![test image](https://github.com/allanbreyes/udacity-data-science/blob/master/p1/figures/residuals-histogram.png?raw=true)
 </br>
 
 #### Q2: Establish a hypothesis and statistical test
