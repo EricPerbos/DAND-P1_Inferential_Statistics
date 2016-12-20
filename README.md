@@ -5,25 +5,22 @@ Use descriptive statistics and a statistical test to analyze the Stroop effect, 
 Give your readers a good intuition for the data and use statistical inference to draw a conclusion based on the results.  
 </br>
 
-### Stroop Effect (from Wikipedia)
+#### Stroop Effect (from Wikipedia)
 
 In [psychology](https://en.wikipedia.org/wiki/Psychology), the Stroop effect is a demonstration of interference in the [reaction time](https://en.wikipedia.org/wiki/Mental_chronometry) of a task.  
 When the name of a color (e.g., "blue", "green", or "red") is printed in a color not denoted by the name (e.g., the word "red" printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the __color__. 
 
 
-### Q1 : Identify the variables in the experiment
+#### Q1 : Identify the variables in the experiment
 
 >The dependant variable is the time measured to name the ink colors (ie. reaction time) in equally-sized lists of identical participants.  
 >The independant variable is a binary variable for the color congruency.
 
 
+#### Q2: Establish a hypothesis and statistical test
 
-Q2 : Establish a hypothesis and statistical test
-
-This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».
-
-The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.
-
+>This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».  
+>The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.  
 The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.
 
 Ho:  µincongruent – µcongruent  ≤ 0
