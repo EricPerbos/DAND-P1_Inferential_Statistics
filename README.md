@@ -22,7 +22,6 @@ When the name of a color (e.g., "blue", "green", or "red") is printed in a color
 The dependant variable is the time measured to name the ink colors (ie. reaction time) in equally-sized lists of identical participants.  
 The independant variable is a binary variable for the color congruency.
 
-![test image](https://github.com/EricPerbos/DAND-P1_Test_a_Perceptual_Phenomenon/blob/master/figures/99b07acbe750cc05a5e70001a1a0b8f2.jpg)
 </br>
 
 #### Q2: Establish a hypothesis and statistical test
@@ -36,7 +35,8 @@ Ha:  µincongruent  – µcongruent  > 0
 
 We assume the distributions are normal/Gaussian.  
 As there is only one sample tested twice (repeated measures), the sample size is below 30 (**N=24**) and the population standard deviation is unknown (estimated from our sample data), we will use a **dependent t-test for paired samples, one-tailed in the positive direction**.  
-The degree of freedom used is n-1, when n represents the number of pairs.
+The degree of freedom used is n-1, when n represents the number of pairs.  
+![test image](https://github.com/EricPerbos/DAND-P1_Test_a_Perceptual_Phenomenon/blob/master/figures/99b07acbe750cc05a5e70001a1a0b8f2.jpg)
 
 </br>
 
