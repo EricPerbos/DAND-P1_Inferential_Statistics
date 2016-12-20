@@ -16,6 +16,7 @@ The dependant variable is the time measured to name the ink colors (ie. reaction
 The independant variable is a binary variable for the color congruency.
 
 
+
 Q2 : Establish a hypothesis and statistical test
 
 This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».
