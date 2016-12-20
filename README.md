@@ -10,7 +10,10 @@ Give your readers a good intuition for the data and use statistical inference to
 In [psychology](https://en.wikipedia.org/wiki/Psychology), the Stroop effect is a demonstration of interference in the [reaction time](https://en.wikipedia.org/wiki/Mental_chronometry) of a task.  
 When the name of a color (e.g., "blue", "green", or "red") is printed in a color not denoted by the name (e.g., the word <font color="blue">RED!</font> printed in blue ink instead of red ink), naming the color of the word takes longer and is more prone to errors than when the color of the ink matches the name of the color.
 </br>
-
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 #### Q1 : Identify the variables in the experiment
 
 >The dependant variable is the time measured to name the ink colors (ie. reaction time) in equally-sized lists of identical participants.  
