@@ -34,10 +34,10 @@ Ho:  µincongruent – µcongruent  ≤ 0
 Ha:  µincongruent  – µcongruent  > 0
 
 We assume the distributions are normal/Gaussian.  
-As there is only one sample tested twice (repeated measures), the sample size is below 30 (N=24) and the population standard deviation is unknown (estimated from our sample data), we will use a dependent t-test for paired samples, one-tailed in the positive direction.
+As there is only one sample tested twice (repeated measures), the sample size is below 30 (N=24) and the population standard deviation is unknown (estimated from our sample data), we will use a dependent t-test for paired samples, one-tailed in the positive direction.  
 The degree of freedom used is n-1, when n represents the number of pairs.
 
-  
+</br>
 
 Q3 : Report the descriptive statistics
 
@@ -49,7 +49,7 @@ Addendum V3 : after computing the time differences Incongruent - Congruent in t
 Average of differences : 7.965
 Standard Deviation of differences : 4.865
 
-
+</br>
 
 Q4 : Plot the data
 
@@ -60,6 +60,9 @@ Comments :
 - We can see that Congruent data follows a rather standard normal distribution while the Incongruent Data is skewed to the right.
 
 - When combining the two data sets on the same frequency scale, we can observe that the Incongruent data set as a whole is strongly positioned to the right (ie. Higher values than) of the Congruent one.
+
+
+</br>
 
 Q5 : Perform the statistical test and interpret your results
 
@@ -90,7 +93,7 @@ In other terms, it take significant longer time for participants to name the cor
 The results match my expectations as I had myself more difficulty with incongruent words during my test.
 
 
-
+</br>
 
 Q6 : Digging deeper and extending the investigation
 
