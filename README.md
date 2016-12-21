@@ -17,14 +17,14 @@ When the name of a color (e.g., "blue", "green", or "red") is printed in a color
 ```
 </br>
 
-#### Q1 : Identify the variables in the experiment
+### Q1 : Identify the variables in the experiment
 
 The dependant variable is the time measured to name the ink colors (ie. reaction time) in equally-sized lists of identical participants.  
 The independant variable is a binary variable for the color congruency.
 
 </br>
 
-#### Q2: Establish a hypothesis and statistical test
+### Q2: Establish a hypothesis and statistical test
 
 This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».  
   - The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.  
@@ -41,7 +41,7 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 
 </br>
 
-#### Q3 : Report the descriptive statistics 
+### Q3 : Report the descriptive statistics 
 
 </br>
 ![stats_1](figures/stats_1.JPG)
@@ -51,12 +51,16 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 
 After computing the time differences Incongruent - Congruent in the spreadsheet, we obtain two key statistics.
 
-**Average of differences : 7.965**
+**Average of differences : 7.965**  
 **Standard Deviation of differences : 4.865**
 
 </br>
+![stats_1](figures/stats_2.JPG)
+</br>
 
-Q4 : Plot the data
+
+### Q4 : Plot the data  
+</br>
 
 
 
