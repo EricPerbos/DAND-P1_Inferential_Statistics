@@ -41,9 +41,10 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 
 </br>
 
-#### Q3 : Report the descriptive statistics  
+#### Q3 : Report the descriptive statistics 
+
 </br>
-  
+![stats_1](figures/stats_1.JPG)
 
 </br>
 
