@@ -58,6 +58,7 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
 </br>
 ![stats_1](figures/stats_2.JPG)
 </br>
+</br>
 
 
 ### Q4 : Plot the data  
