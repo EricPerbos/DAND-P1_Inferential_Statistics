@@ -31,21 +31,21 @@ This test is similar to a paired difference test when subjects are measured befo
   - The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.  
   
 </br>
-> ![stats_1](figures/hypothesis.JPG)
+> ![hypothesis](figures/hypothesis.JPG)
 </br>
 
 We assume the distributions are normal/Gaussian.  
 As there is only one sample tested twice (repeated measures), the sample size is below 30 (**N=24**) and the population standard deviation is unknown (estimated from our sample data), we will use a **dependent t-test for paired samples, one-tailed in the positive direction**.  
 The degree of freedom used is n-1, when n represents the number of pairs.  
 </br>
-![t_formula](figures/t_formula.png)  
+> ![t_formula](figures/t_formula.png)  
 
 </br>
 
 ### Q3 : Report the descriptive statistics 
 
 </br>
-![stats_1](figures/stats_1.JPG)
+> ![stats_1](figures/stats_1.JPG)
 
 </br>
 
@@ -56,7 +56,7 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
   - **Standard Deviation of differences : 4.865**
 
 </br>
-![stats_1](figures/stats_2.JPG)
+> ![stats_2](figures/stats_2.JPG)
 </br>
 </br>
 
@@ -64,7 +64,7 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
 ### Q4 : Plot the data  
 </br>
 </br>
-![stats_1](figures/chart_1.JPG)
+> ![chart_1](figures/chart_1.JPG)
 </br>
 
 Comments :
@@ -79,29 +79,31 @@ Comments :
 ### Q5 : Perform the statistical test and interpret your results  
 
 </br>
-![stats_1](figures/hypothesis.JPG)
+> ![hypothesis](figures/hypothesis.JPG)
 </br>
 
-Ẍcongruent = 14.051
-Scongruent = 3.559
+- Ẍcongruent = 14.051
+- Scongruent = 3.559
 
-Ẍincongruent = 22.016
-Sincongruent = 4.797
+- Ẍincongruent = 22.016
+- Sincongruent = 4.797
 
  
 
 Note to reviewer : See Addendum in Q3
 
-XD = 7.965
-SD  = 4.865
-T-statistic = 7.965 / (4.865 / √24) = 8.021
+- XD = 7.965
+- SD  = 4.865
+- T-statistic = 7.965 / (4.865 / √24) = 8.021
 
-T-critical value with DF=23 at  α = 0,05 is: 1,714
+- T-critical value with DF=23 at  α = 0,05 is: 1,714
 
-As our T-stat > T-crit in the positive direction, we can reject the null hypothesis and accept our alternative one:
-Ha: µincongruent  – µcongruent  > 0
+As our T-stat > T-crit in the positive direction, **we can reject the null hypothesis and accept our alternative one:
+Ha: µincongruent  – µcongruent  > 0**  
 
-In other terms, it take significant longer time for participants to name the correct ink color when exposed to incongruent words.
+
+In other terms, **it take significant longer time for participants to name the correct ink color when exposed to incongruent words.**  
+
 
 The results match my expectations as I had myself more difficulty with incongruent words during my test.
 
