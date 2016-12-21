@@ -106,11 +106,12 @@ Ha: µincongruent  – µcongruent  > 0**
 In other terms, **it take significant longer time for participants to name the correct ink color when exposed to incongruent words.**  
 
 
-The results match my expectations as I had myself more difficulty with incongruent words during my test.
+The results match my expectations as I had myself more difficulty with incongruent words during my test.  
+
 </br>
 </br>
 
-Q6 : Digging deeper and extending the investigation
+### Q6 : Digging deeper and extending the investigation
 </br>
 A. Explanations for the Stroop Effect.  
 
