@@ -29,7 +29,8 @@ The independant variable is a binary variable for the color congruency.
 This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».  
   - The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.  
   - The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.
-
+</br>
+![stats_1](figures/hypothesis.JPG)
 Ho:  µincongruent – µcongruent  ≤ 0  
 Ha:  µincongruent  – µcongruent  > 0
 
