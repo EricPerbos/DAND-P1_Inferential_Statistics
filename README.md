@@ -36,12 +36,15 @@ Ha:  µincongruent  – µcongruent  > 0
 We assume the distributions are normal/Gaussian.  
 As there is only one sample tested twice (repeated measures), the sample size is below 30 (**N=24**) and the population standard deviation is unknown (estimated from our sample data), we will use a **dependent t-test for paired samples, one-tailed in the positive direction**.  
 The degree of freedom used is n-1, when n represents the number of pairs.  
+</br>
+![t_formula](figures/t_formula.png)  
 
-![t_formula](figures/t_formula.png)
 </br>
 
-Q3 : Report the descriptive statistics
-
+Q3 : Report the descriptive statistics  
+</br>
+![stats_1](figures/stats_1.JPG)  
+</br>
 
 
 
