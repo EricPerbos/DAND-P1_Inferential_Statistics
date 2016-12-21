@@ -41,17 +41,16 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 
 </br>
 
-Q3 : Report the descriptive statistics  
+#### Q3 : Report the descriptive statistics  
 </br>
 ![stats_1](figures/stats_1.JPG)  
 </br>
 
 
+After computing the time differences Incongruent - Congruent in the spreadsheet, we obtain two key statistics.
 
-Addendum V3 : after computing the time differences Incongruent - Congruent in the spreadsheet, we obtain two key statistics.
-
-Average of differences : 7.965
-Standard Deviation of differences : 4.865
+**Average of differences : 7.965**
+**Standard Deviation of differences : 4.865**
 
 </br>
 
