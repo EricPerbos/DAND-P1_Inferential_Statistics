@@ -113,12 +113,12 @@ The results match my expectations as I had myself more difficulty with incongrue
 
 ### Q6 : Digging deeper and extending the investigation
 </br>
-A. Explanations for the Stroop Effect.  
+#### A. Explanations for the Stroop Effect.  
 
 According to Wikipedia (https://en.wikipedia.org/wiki/Stroop_effect#Theories), there are several theories used  to explain the Stroop Effect.  
 They assume that the brain is a single-processing-unit confronted with two conflicting informations, one relevant (the word's meaning) and one irrelevant (the word's color).  
 Most theories are based on the discrepancy of speed for the brain to read words (immediate) vs. identify colors (requires attention).  
 </br>
-B. Variations of the Stroop Test.  
+#### B. Variations of the Stroop Test.  
 In 2008, one test was designed  for illiterate individuals, named the Colored Numbers Test (CNT). If the number was black, the participants read the number. If the number was colored, the participants read the color.  
 Other common variations included arrows pointing upwards or downwards while positioned above or below a central point ; or using different font sizes for numbers' pairs while asking to identify the largest number (eg. 3:5 vs 5:3)
