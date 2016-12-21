@@ -58,6 +58,9 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
 </br>
 > ![stats_2](figures/stats_2.JPG)  
 </br>
+
+
+
 </br>
 
 
