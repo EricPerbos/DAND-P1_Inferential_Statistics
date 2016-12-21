@@ -41,6 +41,7 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 > ![t_formula](figures/t_formula.png)  
 
 </br>
+</br>
 
 ### Q3 : Report the descriptive statistics 
 
