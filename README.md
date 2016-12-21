@@ -32,6 +32,7 @@ This test is similar to a paired difference test when subjects are measured befo
   
 </br>
 > ![hypothesis](figures/hypothesis.JPG)
+
 </br>
 
 We assume the distributions are normal/Gaussian.  
@@ -64,7 +65,8 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
 
 ### Q4 : Plot the data
 </br>
-> ![chart_1](figures/chart_1.JPG)
+> ![chart_1](figures/chart_1.JPG)  
+
 </br>
 
 Comments :
@@ -77,7 +79,8 @@ Comments :
 
 ### Q5 : Perform the statistical test and interpret your results  
 </br>
-> ![hypothesis](figures/hypothesis.JPG)
+> ![hypothesis](figures/hypothesis.JPG)  
+
 </br>
 
 - Ẍcongruent = 14.051
