@@ -28,11 +28,11 @@ The independant variable is a binary variable for the color congruency.
 
 This test is similar to a paired difference test when subjects are measured before and after a medical treatment, the treatment here applied being « Incongruency ».  
   - The most reasonnable hypothesis : the color used to print the color's name (ie. congruent vs incongruent) will have no effect on the mean reaction time of the Congruent and Incongruent populations.  
-  - The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.
+  - The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.  
+  
 </br>
 ![stats_1](figures/hypothesis.JPG)
-Ho:  µincongruent – µcongruent  ≤ 0  
-Ha:  µincongruent  – µcongruent  > 0
+</br>
 
 We assume the distributions are normal/Gaussian.  
 As there is only one sample tested twice (repeated measures), the sample size is below 30 (**N=24**) and the population standard deviation is unknown (estimated from our sample data), we will use a **dependent t-test for paired samples, one-tailed in the positive direction**.  
@@ -62,8 +62,9 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
 
 ### Q4 : Plot the data  
 </br>
-
-
+</br>
+![stats_1](figures/chart_1.JPG)
+</br>
 
 Comments :
 
@@ -74,10 +75,11 @@ Comments :
 
 </br>
 
-Q5 : Perform the statistical test and interpret your results
+### Q5 : Perform the statistical test and interpret your results  
 
-Ho:  µincongruent – µcongruent  ≤ 0
-Ha:  µincongruent  – µcongruent  > 0
+</br>
+![stats_1](figures/hypothesis.JPG)
+</br>
 
 Ẍcongruent = 14.051
 Scongruent = 3.559
