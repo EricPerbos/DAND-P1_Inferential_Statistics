@@ -37,8 +37,7 @@ We assume the distributions are normal/Gaussian.
 As there is only one sample tested twice (repeated measures), the sample size is below 30 (**N=24**) and the population standard deviation is unknown (estimated from our sample data), we will use a **dependent t-test for paired samples, one-tailed in the positive direction**.  
 The degree of freedom used is n-1, when n represents the number of pairs.  
 
-![test image](https://github.com/EricPerbos/DAND-P1_Test_a_Perceptual_Phenomenon/blob/master/figures/99b07acbe750cc05a5e70001a1a0b8f2.jpg)
-
+![t_formula](figures/t_formula.png)
 </br>
 
 Q3 : Report the descriptive statistics
