@@ -43,8 +43,7 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 </br>
 </br>
 
-### Q3 : Report the descriptive statistics 
-
+### Q3 : Report the descriptive statistics
 </br>
 > ![stats_1](figures/stats_1.JPG)
 
@@ -62,8 +61,7 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
 </br>
 
 
-### Q4 : Plot the data  
-</br>
+### Q4 : Plot the data
 </br>
 > ![chart_1](figures/chart_1.JPG)
 </br>
@@ -73,12 +71,10 @@ Comments :
 - We can see that Congruent data follows a rather standard normal distribution while the Incongruent Data is skewed to the right.
 
 - When combining the two data sets on the same frequency scale, we can observe that the Incongruent data set as a whole is strongly positioned to the right (ie. Higher values than) of the Congruent one.
-
-
+</br>
 </br>
 
 ### Q5 : Perform the statistical test and interpret your results  
-
 </br>
 > ![hypothesis](figures/hypothesis.JPG)
 </br>
@@ -88,8 +84,6 @@ Comments :
 
 - Ẍincongruent = 22.016
 - Sincongruent = 4.797
-
- 
 
 Note to reviewer : See Addendum in Q3
 
@@ -107,20 +101,17 @@ In other terms, **it take significant longer time for participants to name the c
 
 
 The results match my expectations as I had myself more difficulty with incongruent words during my test.
-
-
+</br>
 </br>
 
 Q6 : Digging deeper and extending the investigation
+</br>
+A. Explanations for the Stroop Effect.  
 
-A. Explanations for the Stroop Effect.
-
-According to Wikipedia (https://en.wikipedia.org/wiki/Stroop_effect#Theories), there are several theories used  to explain the Stroop Effect.
-They assume that the brain is a single-processing-unit confronted with two conflicting informations, one relevant (the word's meaning) and one irrelevant (the word's color).
-Most theories are based on the discrepancy of speed for the brain to read words (immediate) vs. identify colors (requires attention).
-
-B. Variations of the Stroop Test.
-
-In 2008, one test was designed  for illiterate individuals, named the Colored Numbers Test (CNT). If the number was black, the participants read the number. If the number was colored, the participants read the color.
-
+According to Wikipedia (https://en.wikipedia.org/wiki/Stroop_effect#Theories), there are several theories used  to explain the Stroop Effect.  
+They assume that the brain is a single-processing-unit confronted with two conflicting informations, one relevant (the word's meaning) and one irrelevant (the word's color).  
+Most theories are based on the discrepancy of speed for the brain to read words (immediate) vs. identify colors (requires attention).  
+</br>
+B. Variations of the Stroop Test.  
+In 2008, one test was designed  for illiterate individuals, named the Colored Numbers Test (CNT). If the number was black, the participants read the number. If the number was colored, the participants read the color.  
 Other common variations included arrows pointing upwards or downwards while positioned above or below a central point ; or using different font sizes for numbers' pairs while asking to identify the largest number (eg. 3:5 vs 5:3)
