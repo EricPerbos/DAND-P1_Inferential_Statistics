@@ -56,7 +56,7 @@ After computing the time differences Incongruent - Congruent in the spreadsheet,
   - **Standard Deviation of differences : 4.865**
 
 </br>
-> ![stats_2](figures/stats_2.JPG)
+> ![stats_2](figures/stats_2.JPG)  
 </br>
 </br>
 
