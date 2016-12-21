@@ -85,23 +85,24 @@ Comments :
 </br>
 
 - Ẍcongruent = 14.051
-- Scongruent = 3.559
+- Scongruent = 3.559  
 
 - Ẍincongruent = 22.016
 - Sincongruent = 4.797
 
-Note to reviewer : See Addendum in Q3
+</br>
 
 - XD = 7.965
-- SD  = 4.865
-- T-statistic = 7.965 / (4.865 / √24) = 8.021
+- SD  = 4.865  
 
-- T-critical value with DF=23 at  α = 0,05 is: 1,714
+- T-statistic = 7.965 / (4.865 / √24) = 8.021  
+- T-critical value with DF=23 at  α = 0,05 is: 1,714  
+</br>
 
 As our T-stat > T-crit in the positive direction, **we can reject the null hypothesis and accept our alternative one:
 Ha: µincongruent  – µcongruent  > 0**  
 
-
+</br>
 In other terms, **it take significant longer time for participants to name the correct ink color when exposed to incongruent words.**  
 
 
