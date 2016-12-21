@@ -73,7 +73,8 @@ Comments :
 
 - We can see that Congruent data follows a rather standard normal distribution while the Incongruent Data is skewed to the right.
 
-- When combining the two data sets on the same frequency scale, we can observe that the Incongruent data set as a whole is strongly positioned to the right (ie. Higher values than) of the Congruent one.
+- When combining the two data sets on the same frequency scale, we can observe that the Incongruent data set as a whole is strongly positioned to the right (ie. Higher values than) of the Congruent one.  
+
 </br>
 </br>
 
