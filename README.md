@@ -31,7 +31,7 @@ This test is similar to a paired difference test when subjects are measured befo
   - The most reasonnable alternative hypothesis : the mean reaction time of the Incongruent population is superior to the Congruent population's.  
   
 </br>
-    ![stats_1](figures/hypothesis.JPG)
+    - ![stats_1](figures/hypothesis.JPG)
 </br>
 
 We assume the distributions are normal/Gaussian.  
