@@ -52,8 +52,8 @@ The degree of freedom used is n-1, when n represents the number of pairs.
 
 After computing the time differences Incongruent - Congruent in the spreadsheet, we obtain two key statistics.
 
-**Average of differences : 7.965**  
-**Standard Deviation of differences : 4.865**
+  - **Average of differences : 7.965**  
+  - **Standard Deviation of differences : 4.865**
 
 </br>
 ![stats_1](figures/stats_2.JPG)
