@@ -1,6 +1,6 @@
 
 # Test a Perceptual Phenomenon
-_by Eric Perbos-Brinck in fulfillment of Udacity’s Data Analyst Nanodegree, Project 1_
+_by Eric Perbos-Brinck in fulfillment of [Udacity’s Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002), Project 1_
 </br>
 
 Use descriptive statistics and a statistical test to analyze the Stroop effect, a classic result of experimental psychology.  
